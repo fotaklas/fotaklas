@@ -13,7 +13,7 @@
 
 ---
 ### 🛠 Projects I've Built:
-- **AgiPowerHub (Flutter App)**: A mobile app for automating processes, currently developed for my full-time company. [More info](https://agipowerhub.com/)
+- **AgiPowerHub (Flutter App)**: A mobile app for automating processes, currently developed for my company. [More info](https://agipowerhub.com/)
 - **Automated Arduino-Powered Awning**: Created a smart awning system using Arduino for automation and remote control. It adjusts to weather conditions and can be programmed for different settings.
 - **Crypto Trading Bot**: Developed a bot that automates cryptocurrency trading decisions based on market sentiment and analysis.
 - **Sentiment Analysis Program for Crypto News**: Built a tool that analyzes news sentiment and its potential impact on cryptocurrency prices, using word data.
