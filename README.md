@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fotis Stamatopoulos</h1>
 <h3 align="center">A passionate software developer and tech enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/aWWvRot5OSRJS/giphy.gif">
-
-
 - 🔭 I’m currently working full-time on my **AgiPowerHub** app, developed using **Flutter**.
 
  
