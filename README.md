@@ -60,11 +60,10 @@
 </p>
 
 ---
-
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://www.linkedin.com/in/fotis-stamatopoulos-a46630263/" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/fotis-stamatopoulos-a46630263/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:fotis12@icloud.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="40" />
