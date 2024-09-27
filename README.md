@@ -11,16 +11,15 @@
 
 ---
 ### 🛠 Projects I've Built:
-- **AgiPowerHub (Flutter App)**: A mobile app for automating processes, currently developed for my company. [More info](https://agipowerhub.com/)
-- **Automated Arduino-Powered Awning**: Created a smart awning system using Arduino for automation and remote control. It adjusts to weather conditions and can be programmed for different settings.
-- **Crypto Trading Bot**: Developed a bot that automates cryptocurrency trading decisions based on market sentiment and analysis.
-- **Sentiment Analysis Program for Crypto News**: Built a tool that analyzes news sentiment and its potential impact on cryptocurrency prices, using word data.
-- **Automated PC Task Bot**: A bot that automates specific processes on my PC, making routine tasks more efficient.
-- **Product Image Downloader (Excel to Google)**: Created a bot that extracts product data from Excel, including product names and unique codes, and downloads corresponding images from Google.
-- **Unity Games**: Developed a few fun games using Unity to explore game mechanics and interactive design.
-- **Product Image Downloader**: A tool that pulls product images from an Excel database using unique product codes, streamlining the workflow for e-commerce management.
-- **WordPress Websites**: Built multiple dynamic WordPress websites for clients, optimizing both for performance and SEO.
----
+- **AgiPowerHub (Flutter App)**: I developed a mobile app for automating processes, which is currently used by my company. [More info](https://agipowerhub.com/)
+- **Automated Arduino-Powered Awning**: I built a smart awning system using Arduino for automation and remote control. It adjusts to weather conditions and can be programmed for different settings.
+- **Crypto Trading Bot**: I created a bot that automates cryptocurrency trading decisions based on market sentiment and analysis.
+- **Sentiment Analysis Program for Crypto News**: I developed a tool that analyzes news sentiment and its potential impact on cryptocurrency prices, using word data.
+- **Automated PC Task Bot**: I built a bot that automates specific processes on my PC, streamlining routine tasks.
+- **Product Image Downloader (Excel to Google)**: I created a bot that extracts product data from Excel, including product names and unique codes, and automatically downloads corresponding images from Google.
+- **Unity Games**: I developed a few games using Unity to explore game mechanics and interactive design.
+- **Product Image Downloader**: I built a tool that retrieves product images from an Excel database using unique product codes, optimizing workflow for e-commerce management.
+- **WordPress Websites**: I developed multiple dynamic WordPress websites for clients, focusing on performance optimization and SEO.
 
 ### 🛠 Languages and Tools:
 <p align="left">
