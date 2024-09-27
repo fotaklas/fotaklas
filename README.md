@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working full-time on my **AgiPowerHub** app, developed using **Flutter**.
 
+ 
 - 📫 How to reach me: **fotis12@icloud.com**
+
 
 - ⚡ Fun fact: I love exploring new technologies and solving real-world problems through code.
 
