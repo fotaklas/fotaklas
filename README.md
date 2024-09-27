@@ -17,6 +17,18 @@
 
 ---
 
+### 🛠 Projects I've Built:
+- **AgiPowerHub (Flutter App)**: A mobile app for automating processes, currently developed for my full-time company. [More info](#)
+- **Automated Arduino-Powered Awning**: Created a smart awning system using Arduino for automation and remote control. It adjusts to weather conditions and can be programmed for different settings.
+- **Crypto Trading Bot**: Developed a bot that automates cryptocurrency trading decisions based on market sentiment and analysis.
+- **Sentiment Analysis Program for Crypto News**: Built a tool that analyzes news sentiment and its potential impact on cryptocurrency prices, using word data.
+- **Automated PC Task Bot**: A bot that automates specific processes on my PC, making routine tasks more efficient.
+- **Unity Games**: Developed a few fun games using Unity to explore game mechanics and interactive design.
+- **Product Image Downloader**: A tool that pulls product images from an Excel database using unique product codes, streamlining the workflow for e-commerce management.
+- **WordPress Websites**: Built multiple dynamic WordPress websites for clients, optimizing both for performance and SEO.
+
+---
+
 ### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -54,3 +66,4 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="40" />
   </a>
 </p>
+
