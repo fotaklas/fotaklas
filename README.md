@@ -69,6 +69,6 @@
   <a href="mailto:fotis12@icloud.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="40" />
   </a>
-</p> τελεια τωρα φτιαξε να ειναι ποιο ομορφο  χωρις να αλλαξεις κατι απο τα λογια και να εχουν καλυτερο κενο αναμεσα τους 
+</p>
 
 
