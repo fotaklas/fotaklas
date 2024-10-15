@@ -25,10 +25,7 @@
 
 - **Unity Games**: I developed a few games using Unity to explore game mechanics and interactive design.
 
-- **Product Image Downloader**: I built a tool that retrieves product images from an Excel database using unique product codes, optimizing workflow for e-commerce management.
-
 - **WordPress Websites**: I developed multiple dynamic WordPress websites for clients, focusing on performance optimization and SEO.
-
 ---
 
 ### 🛠 Languages and Tools:
