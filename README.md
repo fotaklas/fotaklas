@@ -14,7 +14,7 @@ A drone designed for civil protection, equipped with:
 ### 🛠 **Projects I've Built:**  
 
 - 🛸 **All-in-One Emergency Response Drone** → Civil protection & medical logistics  
-  _**Tech Stack:** Python, HTML,CSS_  
+  _**Tech Stack:** Python, HTML, CSS_  
 
 - 🛍 **Demetra – Wholesale Buying App** → Business-Supplier marketplace  
   _**Tech Stack:** Flutter, Firebase, PHP, MySQL_  
