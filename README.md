@@ -1,59 +1,49 @@
-<h1 align="center">Hi 👋, I'm Fotis Stamatopoulos</h1>
-<h3 align="center">A passionate software developer and tech enthusiast</h3>
+# 🚀 Projects & Contributions  
 
-- 🔭 I’m currently working full-time on my **AgiPowerHub** app, developed using **Flutter**.
+### 🔭 **Currently Working On:**  
+#### 🛸 **All-in-One Emergency Response Drone** (🇬🇷🇹🇷 Greece-Turkey Hackathon)  
+A drone designed for civil protection, equipped with:  
+- **3D Scanning** for wildfire assessment and aiding firefighters.  
+- **Supply Transport** for critical logistics.  
+- **Medical Deliveries** like blood transfers between hospitals.  
+**Tech Stack:** Python, C++, Drone SDKs, AI-based Image Processing  
 
-- 📫 How to reach me: **fotis12@icloud.com**
-
-- ⚡ Fun fact: I love exploring new technologies and solving real-world problems through code.
-
+#### 🛍 **Demetra – Wholesale Buying App**  
+**Tech Stack:** Flutter, Firebase, PHP, MySQL  
 ---
+### 🛠 **Projects I've Built:**  
 
-### 🛠 Projects I've Built:
+- 🛸 **All-in-One Emergency Response Drone** → Civil protection & medical logistics  
+  _**Tech Stack:** Python, C++, AI_  
 
--AgiPowerHub (Flutter App): Developed a mobile application facilitating seamless communication between electric vehicle chargers and users, enabling efficient charging session management.
+- 🛍 **Demetra – Wholesale Buying App** → Business-Supplier marketplace  
+  _**Tech Stack:** Flutter, Firebase, PHP, MySQL_  
 
--Automated Arduino-Powered Awning: Engineered a smart awning system leveraging Arduino for remote-controlled automation, dynamically adjusting to weather conditions with programmable settings.
+- ⚡ **AgiPowerHub (Flutter App)** → EV charger-user communication  
+  _**Tech Stack:** Flutter (Dart), Firebase, MySQL_ 
 
--Crypto Trading Bot: Designed and implemented an automated cryptocurrency trading bot that executes trades based on market sentiment analysis and predictive modeling.
+- 🤖 **Crypto Trading Bot** → Automated trading with sentiment analysis  
+  _**Tech Stack:** Python_  
 
--Sentiment Analysis for Crypto News: Developed a natural language processing (NLP) tool that analyzes news sentiment to assess its impact on cryptocurrency prices.
+- 📈 **Sentiment Analysis for Crypto News** → NLP-based price impact assessment  
+  _**Tech Stack:** Python_  
 
--Automated PC Task Bot: Created an automation bot to streamline repetitive PC tasks, improving workflow efficiency.
+- 🏡 **Automated Arduino-Powered Awning** → Smart weather-based automation  
+  _**Tech Stack:** Arduino (C++)_  
 
--Product Image Downloader (Excel to Google): Designed a data extraction bot that retrieves product details from Excel, generates unique identifiers, and automates the corresponding image download process from Google.
+- 🔄 **Automated PC Task Bot** → Task automation  
+  _**Tech Stack:** Python_  
 
--Unity Game Development: Built several interactive games using Unity, focusing on game mechanics, user engagement, and immersive design.
+- 🖼 **Product Image Downloader** → Automating image retrieval from Excel to Google  
+  _**Tech Stack:** Python_  
 
--WordPress Website Development: Developed multiple high-performance WordPress websites for clients, emphasizing optimization, SEO, and user experience.
+- 🎮 **Game Development** → Unity & pure C++ game development  
+  _**Tech Stack:** C++, Unity (C#)_  
 
-### 🛠 Languages and Tools:
+- 🌍 **IoT & Automation** → Arduino-based smart solutions  
+  _**Tech Stack:** Arduino (C++)_  
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🔥 My Stats:
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fotaklas&theme=dark" alt="fotaklas" />
-</p>
+- 🔗 **Web Development** → WordPress & custom websites   
 
 ---
 ### 🌐 Connect with me:
