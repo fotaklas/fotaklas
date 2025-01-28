@@ -8,8 +8,7 @@ A drone designed for civil protection, equipped with:
 - **Medical Deliveries** like blood transfers between hospitals.  
 **Tech Stack:** Python, C++, Drone SDKs, AI-based Image Processing  
 
-#### 🛍 **Demetra – Wholesale Buying App**  
-**Tech Stack:** Flutter, Firebase, PHP, MySQL  
+#### 🛍 **Demetra – Wholesale Buying App**   
 ---
 ### 🛠 **Projects I've Built:**  
 
