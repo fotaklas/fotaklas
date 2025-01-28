@@ -8,8 +8,9 @@ A drone designed for civil protection, equipped with:
 - **Medical Deliveries** like blood transfers between hospitals.  
 **Tech Stack:** Python, C++, Drone SDKs, AI-based Image Processing  
 
-#### 🛍 **Demetra – Wholesale Buying App**   
+#### 🛍 **Demetra – Wholesale Buying App**  
 ---
+
 ### 🛠 **Projects I've Built:**  
 
 - 🛸 **All-in-One Emergency Response Drone** → Civil protection & medical logistics  
@@ -19,7 +20,7 @@ A drone designed for civil protection, equipped with:
   _**Tech Stack:** Flutter, Firebase, PHP, MySQL_  
 
 - ⚡ **AgiPowerHub (Flutter App)** → EV charger-user communication  
-  _**Tech Stack:** Flutter (Dart), Firebase, MySQL_ 
+  _**Tech Stack:** Flutter (Dart), Firebase, MySQL_  
 
 - 🤖 **Crypto Trading Bot** → Automated trading with sentiment analysis  
   _**Tech Stack:** Python_  
@@ -42,8 +43,13 @@ A drone designed for civil protection, equipped with:
 - 🌍 **IoT & Automation** → Arduino-based smart solutions  
   _**Tech Stack:** Arduino (C++)_  
 
-- 🔗 **Web Development** → WordPress & custom websites   
+- 🔗 **Web Development** → WordPress & custom websites  
+  _**Tech Stack:** PHP, JavaScript_  
 
+---
+
+### 🏅 **Achievements:**  
+- Awarded a **scholarship** for participation in a WiFi-Hacking seminar organized by [**Audax Cybersecurity**](https://www.audax.gr).  
 ---
 ### 🌐 Connect with me:
 <p align="left">
