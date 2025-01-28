@@ -11,22 +11,14 @@
 
 ### 🛠 Projects I've Built:
 
-- **AgiPowerHub (Flutter App)**: I developed a mobile app for automating processes, which is currently used by my company. [More info](https://agipowerhub.com/)
-
-- **Automated Arduino-Powered Awning**: I built a smart awning system using Arduino for automation and remote control. It adjusts to weather conditions and can be programmed for different settings.
-
-- **Crypto Trading Bot**: I created a bot that automates cryptocurrency trading decisions based on market sentiment and analysis.
-
-- **Sentiment Analysis Program for Crypto News**: I developed a tool that analyzes news sentiment and its potential impact on cryptocurrency prices, using word data.
-
-- **Automated PC Task Bot**: I built a bot that automates specific processes on my PC, streamlining routine tasks.
-
-- **Product Image Downloader (Excel to Google)**: I created a bot that extracts product data from Excel, including product names and unique codes, and automatically downloads corresponding images from Google.
-
-- **Unity Games**: I developed a few games using Unity to explore game mechanics and interactive design.
-
-- **WordPress Websites**: I developed multiple dynamic WordPress websites for clients, focusing on performance optimization and SEO.
----
+AgiPowerHub (Flutter App): Developed a mobile application for automating processes, currently utilized by my company to enhance operational efficiency.
+Automated Arduino-Powered Awning: Engineered a smart awning system leveraging Arduino for remote-controlled automation, dynamically adjusting to weather conditions with programmable settings.
+Crypto Trading Bot: Designed and implemented an automated cryptocurrency trading bot that executes trades based on market sentiment analysis and predictive modeling.
+Sentiment Analysis for Crypto News: Developed a natural language processing (NLP) tool that analyzes news sentiment to assess its impact on cryptocurrency prices.
+Automated PC Task Bot: Created an automation bot to streamline repetitive PC tasks, improving workflow efficiency.
+Product Image Downloader (Excel to Google): Designed a data extraction bot that retrieves product details from Excel, generates unique identifiers, and automates the corresponding image download process from Google.
+Unity Game Development: Built several interactive games using Unity, focusing on game mechanics, user engagement, and immersive design.
+WordPress Website Development: Developed multiple high-performance WordPress websites for clients, emphasizing optimization, SEO, and user experience.
 
 ### 🛠 Languages and Tools:
 
