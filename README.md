@@ -11,7 +11,7 @@
 
 ### 🛠 Projects I've Built:
 
--AgiPowerHub (Flutter App): Developed a mobile application for automating processes, currently utilized by my company to enhance operational efficiency.
+-AgiPowerHub (Flutter App): Developed a mobile application facilitating seamless communication between electric vehicle chargers and users, enabling efficient charging session management.
 
 -Automated Arduino-Powered Awning: Engineered a smart awning system leveraging Arduino for remote-controlled automation, dynamically adjusting to weather conditions with programmable settings.
 
