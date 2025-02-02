@@ -20,7 +20,7 @@ A drone designed for civil protection, equipped with:
   _**Tech Stack:** Flutter, Firebase, PHP, MySQL_  
 
 - ⚡ **AgiPowerHub (Flutter App)** → EV charger-user communication  
-  _**Tech Stack:** Flutter (Dart), Firebase, MySQL_  
+  _**Tech Stack:** Flutter, Firebase, PHP, MySQL_  
 
 - 🤖 **Crypto Trading Bot** → Automated trading with sentiment analysis  
   _**Tech Stack:** Python_  
