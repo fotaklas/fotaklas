@@ -1,12 +1,6 @@
 # 🚀 Projects & Contributions  
 
 ### 🔭 **Currently Working On:**  
-#### 🛸 **All-in-One Emergency Response Drone** (🇬🇷🇹🇷 Greece-Turkey Hackathon)  
-A drone designed for civil protection, equipped with:  
-- **3D Scanning** for wildfire assessment and aiding firefighters.  
-- **Supply Transport** for critical logistics.  
-- **Medical Deliveries** like blood transfers between hospitals.  
-**Tech Stack:** Python, C++, Drone SDKs, AI-based Image Processing  
 
 #### 🛍 **Demetra – Wholesale Buying App**  
 ---
