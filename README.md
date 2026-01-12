@@ -1,10 +1,5 @@
 # 🚀 Projects & Contributions  
 
-### 🔭 **Currently Working On:**  
-
-#### 🛍 **Demetra – Wholesale Buying App**  
----
-
 ### 🛠 **Projects I've Built:**  
 
 - 🛸 **All-in-One Emergency Response Drone** → Civil protection & medical logistics  
