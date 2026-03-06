@@ -5,13 +5,13 @@ I am an R&D Software Engineer passionate about bridging the gap between software
 ### 🛸 **IoT, Robotics & Autonomous Systems** 
   _**Tech Stack:** Python (Core Logic), HTML/CSS (Control Dashboard)_  
 
-- ⚡ **[AgiPowerHub (IoT MVP)](#)** → Engineered a real-time communication bridge synchronizing mobile interfaces with physical EV charging hardware.  
+- ⚡ **AgiPowerHub (IoT MVP)** → Engineered a real-time communication bridge synchronizing mobile interfaces with physical EV charging hardware.  
   _**Tech Stack:** Flutter, Firebase, IoT Protocols, PHP, MySQL_  
 
-- 🏡 **[Automated Arduino-Powered Awning](#)** → Sensor-driven physical automation adapting to real-time weather changes.  
+- 🏡 **Automated Arduino-Powered Awning** → Sensor-driven physical automation adapting to real-time weather changes.  
   _**Tech Stack:** Arduino (C++), Environmental Sensors_  
 
-- 🌍 **[IoT & Automation](#)** → Custom microcontroller-based smart solutions and prototypes.  
+- 🌍 **IoT & Automation** → Custom microcontroller-based smart solutions and prototypes.  
   _**Tech Stack:** Arduino (C++)_  
 
 ---
@@ -19,16 +19,16 @@ I am an R&D Software Engineer passionate about bridging the gap between software
 ### 🧠 **AI, Data & Custom Automations** 
   _**Tech Stack:** Flutter, Firebase, PHP, MySQL_  
 
-- 🤖 **[Crypto Trading Bot](#)** → Automated trading logic integrated with market analysis.  
+- 🤖 **Crypto Trading Bot** → Automated trading logic integrated with market analysis.  
   _**Tech Stack:** Python_  
 
-- 📈 **[Sentiment Analysis for Crypto News](#)** → NLP-based price impact assessment model.  
+- 📈 **Sentiment Analysis for Crypto News** → NLP-based price impact assessment model.  
   _**Tech Stack:** Python_  
 
-- 🔄 **[Automated PC Task Bot](#)** → Custom workflow automation script eliminating manual desktop operations.  
+- 🔄 **Automated PC Task Bot** → Custom workflow automation script eliminating manual desktop operations.  
   _**Tech Stack:** Python_  
 
-- 🖼 **[Product Image Downloader](#)** → Data pipeline automating image extraction from Excel to Google Drive.  
+- 🖼 **Product Image Downloader** → Data pipeline automating image extraction from Excel to Google Drive.  
   _**Tech Stack:** Python, Google APIs_  
 
 ---
@@ -36,7 +36,7 @@ I am an R&D Software Engineer passionate about bridging the gap between software
 ### 💻 **Full-Stack Software & Interactive Media** -
   _**Tech Stack:** C++, Unity (C#)_  
 
-- 🔗 **[Web Development](#)** → Custom platforms and content management systems.  
+- 🔗 **Web Development** → Custom platforms and content management systems.  
   _**Tech Stack:** PHP, JavaScript, WordPress_  
 
 ---
