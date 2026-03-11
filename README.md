@@ -1,52 +1,47 @@
-# 🚀 Projects & Contributions  
+# 🛰️ R&D Embedded  Systems Engineering Portfolio
 
-I am an R&D Software Engineer passionate about bridging the gap between software, AI, and the physical world. Here is a selection of my work across different technological domains:
+I am an **Embedded Systems Engineer** and Computer Science graduate passionate about bridging the gap between low-level code, physical sensors, and mechanical design. My focus is on rapid prototyping and building robust, mission-critical systems for the **Aerospace & Defense** and Autonomous Robotics sectors.
 
-### 🛸 **IoT, Robotics & Autonomous Systems** 
-  _**Tech Stack:** Python (Core Logic), HTML/CSS (Control Dashboard)_  
+### 🚁 Embedded Systems, Aerospace & Autonomous Robotics
+Focusing on hardware-software integration, real-time logic, and sensor data processing.
 
-- ⚡ **AgiPowerHub (IoT MVP)** → Engineered a real-time communication bridge synchronizing mobile interfaces with physical EV charging hardware.  
-  _**Tech Stack:** Flutter, Firebase, IoT Protocols, PHP, MySQL_  
+- 🛸 **Autonomous Drone System** *(Greece-Turkey International Hackathon 2025)* → Engineered control logic and autonomous flight capabilities for a prototype drone system. 
+  _**Tech Stack:** C/C++, Microcontrollers, Sensor Integration_  
 
-- 🏡 **Automated Arduino-Powered Awning** → Sensor-driven physical automation adapting to real-time weather changes.  
-  _**Tech Stack:** Arduino (C++), Environmental Sensors_  
+- ⚡ **AgiPowerHub (Hardware-to-Cloud Sync)** → Architected the real-time communication bridge synchronizing physical EV charging hardware with mobile user interfaces.  
+  _**Tech Stack:** Embedded Protocols, C++, Firebase, Flutter_  
 
-- 🌍 **IoT & Automation** → Custom microcontroller-based smart solutions and prototypes.  
-  _**Tech Stack:** Arduino (C++)_  
+- 🌤️ **Automated Sensor-Driven Environment** → Designed a custom microcontroller-based prototype adapting physical mechanisms (awnings) to real-time weather changes.  
+  _**Tech Stack:** Arduino (C/C++), Environmental Sensors, Hardware Assembly_  
 
 ---
 
-### 🧠 **AI, Data & Custom Automations** 
-  _**Tech Stack:** Flutter, Firebase, PHP, MySQL_  
+### 🧠 Data Pipelines, AI & Automation Logic
+Demonstrating strong capabilities in Python scripting, which I leverage for system testing, data analysis, and automated workflows.
 
-- 🤖 **Crypto Trading Bot** → Automated trading logic integrated with market analysis.  
-  _**Tech Stack:** Python_  
+- 🤖 **Algorithmic Trading & NLP Models** → Built automated logic bots and NLP sentiment analysis pipelines to parse live market data and news.  
+  _**Tech Stack:** Python, API Integration_  
 
-- 📈 **Sentiment Analysis for Crypto News** → NLP-based price impact assessment model.  
-  _**Tech Stack:** Python_  
-
-- 🔄 **Automated PC Task Bot** → Custom workflow automation script eliminating manual desktop operations.  
-  _**Tech Stack:** Python_  
-
-- 🖼 **Product Image Downloader** → Data pipeline automating image extraction from Excel to Google Drive.  
+- 🔄 **Custom OS Automation Scripts** → Developed workflow automation tools to eliminate manual desktop operations and handle data pipelines (e.g., Image extraction workflows).  
   _**Tech Stack:** Python, Google APIs_  
 
 ---
 
-### 💻 **Full-Stack Software & Interactive Media** -
-  _**Tech Stack:** C++, Unity (C#)_  
+### 💻 Full-Stack & UI/UX Interfacing
+Capable of building the necessary dashboards and control panels to interface with embedded hardware.
 
-- 🔗 **Web Development** → Custom platforms and content management systems.  
-  _**Tech Stack:** PHP, JavaScript, WordPress_  
+- 🔗 **Web & App Dashboards** → Development of custom platforms, management systems, and interactive media.  
+  _**Tech Stack:** Flutter, C#, Unity, PHP_  
 
 ---
 
-### 🏅 **Achievements & Hackathons:** - 
-- 🚀 **Semi-Finalist:** StartSmart SEE Competition 2024 for "AgiPowerHub"
-- 🌍 **Participant:** Greece-Turkey International Hackathon 2025 (Autonomous Drone System)
+### 🏅 Honors & Awards 
+- 🌍 **Participant & Developer:** Greece-Turkey International Hackathon 2025 (Autonomous Drone System)
+- 🚀 **Semi-Finalist:** StartSmart SEE Competition 2024 (AgiPowerHub MVP)
+
 ---
 
-### 🌐 Connect with me:
+### 🌐 Let's Connect:
 <p align="left">
   <a href="https://www.linkedin.com/in/fotis-stamatopoulos-a46630263/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
